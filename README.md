@@ -23,6 +23,7 @@ What Next:
 Limitations:
 
 This library has issues with arrays. so if you have array in your model, you need to provide the set implementation. for example 
+
 public class Draw{
     public int drawNumber;
     public String drawDate;
@@ -44,7 +45,8 @@ public class Draw{
     }
 }
 
-public class Prize{
+public class Prize
+{
     public String description;
     public Integer amount;
     public int count;
