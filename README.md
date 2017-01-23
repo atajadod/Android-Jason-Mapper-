@@ -1,4 +1,4 @@
-"# Android-Jason-Mapper-" 
+"# Android-Json-Mapper-" 
 This is my solution to map any Json to the plain java classes to be used as model.
 Please note this library depends on volley:1.0.0
 So please make sure to have the line below in you build.gradle.
